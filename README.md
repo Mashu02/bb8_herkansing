@@ -2,7 +2,7 @@
 
 ## Contents
 
-- `models/`: Includes the trained YOLO model weights.
+- `models/`: Trained modellen voor elke data augmentation techniek.
 - `notebooks/`: Jupyter notebooks voor data van segment naar detect dataset, labels checken op image, and validation.
 
 ## Trained Models
